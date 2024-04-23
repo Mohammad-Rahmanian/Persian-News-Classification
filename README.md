@@ -1,12 +1,15 @@
-# Multi-Label Text Classification with LSTM and Machine Learning Models
+<div style="display: flex; align-items: center;">
+  <h1>Multi-Label Text Classification with LSTM and Machine Learning Models</h1>
+  <img src="https://github.com/Mohammad-Rahmanian/Persian-News-Classification/assets/78559411/6560b2f8-76aa-4836-aefe-4d46c74e2bfe" alt="News" width="50">
+</div>
 
-## Overview
+## Overview  📌
 This project focuses on building and evaluating multiple models for multi-label text classification of Persian news articles. It utilizes a diverse dataset of documents categorized into various labels, such as politics, social issues, and culture, implementing both traditional machine learning models and a Long Short-Term Memory (LSTM) network to handle sequence data effectively.
 
 ## Dataset Description
 The dataset consists of a comprehensive collection of Persian news articles, organized into a hierarchical structure of categories and subcategories.
 
-### Downloading the Dataset
+### Downloading the Dataset 
 The dataset can be accessed and downloaded from the following Google Drive link:
 [Download Dataset](https://drive.google.com/drive/u/5/folders/1kA2gcSPwF3jLIgjffY-zeLrlbh0Pih75)
 
@@ -15,7 +18,7 @@ The dataset can be accessed and downloaded from the following Google Drive link:
 2. Download the required dataset files.
 3. Place the downloaded files into the root directory of the project, ensuring they are named correctly as per the scripts' configuration.
 
-## Project Objectives
+## Project Objectives 🌟
 - **Loading Data and Categorizing Documents:** Organize documents based on directory structure into categories.
 - **Display Dataset Information:** Provide statistics about the dataset including document counts and category distribution.
 - **Text Preprocessing:** Normalize, tokenize, and lemmatize the text data, removing stopwords and punctuation.
@@ -32,7 +35,7 @@ The dataset can be accessed and downloaded from the following Google Drive link:
    - Store your dataset with a directory structure where each subfolder represents a category.
    - Set the `root_directory` in the script to the location of your dataset.
 
-## Usage
+## Usage 📘
 Execute the script section by section:
 1. **Data Loading and Preprocessing:** Load and categorize documents; display dataset statistics.
 2. **Text Preprocessing and Feature Extraction:** Clean text data; extract features using TF-IDF and Word2Vec.
