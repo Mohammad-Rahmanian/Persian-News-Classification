@@ -14,6 +14,7 @@ The dataset consists of a comprehensive collection of Persian news articles, org
   <img src="https://github.com/Mohammad-Rahmanian/Persian-News-Classification/assets/78559411/56ef29cb-c84b-4206-bd1f-b104517f89a7" alt="Dataset" width="50">
 </div>
 The dataset can be accessed and downloaded from the following Google Drive link:
+
 [Download Dataset](https://drive.google.com/drive/u/5/folders/1kA2gcSPwF3jLIgjffY-zeLrlbh0Pih75)
 
 
