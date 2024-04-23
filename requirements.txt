@@ -1,0 +1,9 @@
+gensim==4.3.2
+hazm==0.7.0
+matplotlib==3.7.1
+numpy==1.25.1
+pandas==1.4.2
+scikit_learn==1.1.2
+seaborn==0.13.2
+tensorflow==2.16.1
+tensorflow_intel==2.16.1
