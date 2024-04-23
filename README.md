@@ -7,12 +7,12 @@
 This project focuses on building and evaluating multiple models for multi-label text classification of Persian news articles. It utilizes a diverse dataset of documents categorized into various labels, such as politics, social issues, and culture, implementing both traditional machine learning models and a Long Short-Term Memory (LSTM) network to handle sequence data effectively.
 
 ## Dataset Description
-The dataset consists of a comprehensive collection of Persian news articles, organized into a hierarchical structure of categories and subcategories.
-
-### Downloading the Dataset 
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/Mohammad-Rahmanian/Persian-News-Classification/assets/78559411/56ef29cb-c84b-4206-bd1f-b104517f89a7" alt="Dataset" width="50">
 </div>
+The dataset consists of a comprehensive collection of Persian news articles, organized into a hierarchical structure of categories and subcategories.
+
+### Downloading the Dataset 
 The dataset can be accessed and downloaded from the following Google Drive link:
 
 [Download Dataset](https://drive.google.com/drive/u/5/folders/1kA2gcSPwF3jLIgjffY-zeLrlbh0Pih75)
