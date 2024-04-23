@@ -4,13 +4,7 @@
 This project focuses on building and evaluating multiple models for multi-label text classification of Persian news articles. It utilizes a diverse dataset of documents categorized into various labels, such as politics, social issues, and culture, implementing both traditional machine learning models and a Long Short-Term Memory (LSTM) network to handle sequence data effectively.
 
 ## Dataset Description
-The dataset includes a comprehensive collection of Persian news articles diversified across several main categories and their respective subcategories:
-
-- **Political**: Articles related to government policies, elections, and international relations.
-- **Social**: Coverage on social events, public opinion, and lifestyle.
-- **Cultural**: Discussions on cultural heritage, literature, and arts.
-
-Each main category contains subcategories providing granular classification.
+The dataset consists of a comprehensive collection of Persian news articles, organized into a hierarchical structure of categories and subcategories.
 
 ### Downloading the Dataset
 The dataset can be accessed and downloaded from the following Google Drive link:
@@ -25,6 +19,7 @@ The dataset can be accessed and downloaded from the following Google Drive link:
 - **Loading Data and Categorizing Documents:** Organize documents based on directory structure into categories.
 - **Display Dataset Information:** Provide statistics about the dataset including document counts and category distribution.
 - **Text Preprocessing:** Normalize, tokenize, and lemmatize the text data, removing stopwords and punctuation.
+- **Identify Key Terms with TF-IDF:** Apply TF-IDF vectorization to highlight key terms that characterize each category.
 - **Feature Extraction:** Use TF-IDF and Word2Vec for extracting text features.
 - **Model Training and Evaluation:** Train and evaluate multiple machine learning models and an LSTM network.
 - **Performance Visualization:** Visualize the performance of models through precision, recall, and confusion matrices.
