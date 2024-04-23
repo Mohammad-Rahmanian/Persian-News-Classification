@@ -1,7 +1,25 @@
 # Multi-Label Text Classification with LSTM and Machine Learning Models
 
 ## Overview
-This project focuses on building and evaluating multiple models for multi-label text classification. It utilizes a dataset of documents that are categorized into various labels, implementing both traditional machine learning models and a Long Short-Term Memory (LSTM) network to handle sequence data effectively.
+This project focuses on building and evaluating multiple models for multi-label text classification of Persian news articles. It utilizes a diverse dataset of documents categorized into various labels, such as politics, social issues, and culture, implementing both traditional machine learning models and a Long Short-Term Memory (LSTM) network to handle sequence data effectively.
+
+## Dataset Description
+The dataset includes a comprehensive collection of Persian news articles diversified across several main categories and their respective subcategories:
+
+- **Political**: Articles related to government policies, elections, and international relations.
+- **Social**: Coverage on social events, public opinion, and lifestyle.
+- **Cultural**: Discussions on cultural heritage, literature, and arts.
+
+Each main category contains subcategories providing granular classification.
+
+### Downloading the Dataset
+The dataset can be accessed and downloaded from the following Google Drive link:
+[Download Dataset](https://drive.google.com/drive/u/5/folders/1kA2gcSPwF3jLIgjffY-zeLrlbh0Pih75)
+
+**Steps to download and set up the dataset:**
+1. Click on the link to navigate to Google Drive.
+2. Download the required dataset files.
+3. Place the downloaded files into the root directory of the project, ensuring they are named correctly as per the scripts' configuration.
 
 ## Project Objectives
 - **Loading Data and Categorizing Documents:** Organize documents based on directory structure into categories.
@@ -36,4 +54,3 @@ Execute the script section by section:
 
 ## Conclusion
 This project illustrates the application of various machine learning and deep learning models to multi-label text classification, providing insights into which models and feature extraction techniques perform best.
-
