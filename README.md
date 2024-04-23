@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <h1>Multi-Label Text Classification with LSTM and Machine Learning Models</h1>
-  <img src="https://github.com/Mohammad-Rahmanian/Persian-News-Classification/assets/78559411/6560b2f8-76aa-4836-aefe-4d46c74e2bfe" alt="News" width="50">
+  <img src="https://github.com/Mohammad-Rahmanian/Persian-News-Classification/assets/78559411/6560b2f8-76aa-4836-aefe-4d46c74e2bfe" alt="News" width="100">
 </div>
 
 ## Overview  📌
@@ -10,6 +10,9 @@ This project focuses on building and evaluating multiple models for multi-label 
 The dataset consists of a comprehensive collection of Persian news articles, organized into a hierarchical structure of categories and subcategories.
 
 ### Downloading the Dataset 
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/Mohammad-Rahmanian/Persian-News-Classification/assets/78559411/770bccdc-cb7b-4d87-afbf-89c35d4a9939" alt="News" width="50">
+</div>
 The dataset can be accessed and downloaded from the following Google Drive link:
 [Download Dataset](https://drive.google.com/drive/u/5/folders/1kA2gcSPwF3jLIgjffY-zeLrlbh0Pih75)
 
