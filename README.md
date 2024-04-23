@@ -11,10 +11,11 @@ The dataset consists of a comprehensive collection of Persian news articles, org
 
 ### Downloading the Dataset 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/Mohammad-Rahmanian/Persian-News-Classification/assets/78559411/770bccdc-cb7b-4d87-afbf-89c35d4a9939" alt="News" width="50">
+  <img src="https://github.com/Mohammad-Rahmanian/Persian-News-Classification/assets/78559411/56ef29cb-c84b-4206-bd1f-b104517f89a7" alt="Dataset" width="50">
 </div>
 The dataset can be accessed and downloaded from the following Google Drive link:
 [Download Dataset](https://drive.google.com/drive/u/5/folders/1kA2gcSPwF3jLIgjffY-zeLrlbh0Pih75)
+
 
 **Steps to download and set up the dataset:**
 1. Click on the link to navigate to Google Drive.
